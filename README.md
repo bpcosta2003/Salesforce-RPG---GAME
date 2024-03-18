@@ -7,6 +7,8 @@ You are a Developer from Salesforce that needs to fight in behalf Salesforce! Yo
 
 ## Project 🖱️
 
+See the following gameplay for better understanding! [VIDEO GAMEPLAY](https://share.vidyard.com/watch/TUkUKNVAPDt8SDAzDGWjRc?)
+
 ![image](https://user-images.githubusercontent.com/69023428/190438860-5767e50a-2c8b-4074-b3ac-2bb747babd9b.png)
 ![image](https://user-images.githubusercontent.com/69023428/190438960-550453dc-0963-4648-b03f-95aea4d85cf6.png)
 ![image](https://user-images.githubusercontent.com/69023428/190439206-f70b92e8-4ad9-4699-9be0-34018161b346.png)
